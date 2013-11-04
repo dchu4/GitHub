@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.5">
+  <compound refid="class_main_window" kind="class"><name>MainWindow</name>
+    <member refid="class_main_window_1a35466a70ed47252a0191168126a352a5" kind="variable"><name>ui</name></member>
+    <member refid="class_main_window_1a8b244be8b7b7db1b08de2a2acb9409db" kind="function"><name>MainWindow</name></member>
+    <member refid="class_main_window_1ae98d00a93bc118200eeef9f9bba1dba7" kind="function"><name>~MainWindow</name></member>
+    <member refid="class_main_window_1a4de79c63c7fa0b8d7c468ac71f20be81" kind="slot"><name>on_pushButton_clicked</name></member>
+    <member refid="class_main_window_1ae0e46dc3da4ee07bf66e73e20300220c" kind="slot"><name>on_pushButton_2_clicked</name></member>
+    <member refid="class_main_window_1a12cf88402a93adef89645ba4e4cb7be1" kind="slot"><name>on_pushButton_3_clicked</name></member>
+    <member refid="class_main_window_1ae80a036ef40bb6ac0165471f71fef287" kind="slot"><name>on_pushButton_4_clicked</name></member>
+  </compound>
+  <compound refid="namespace_ui" kind="namespace"><name>Ui</name>
+  </compound>
+  <compound refid="main_8cpp" kind="file"><name>main.cpp</name>
+    <member refid="main_8cpp_1a0ddf1224851353fc92bfbff6f499fa97" kind="function"><name>main</name></member>
+  </compound>
+  <compound refid="mainwindow_8cpp" kind="file"><name>mainwindow.cpp</name>
+  </compound>
+  <compound refid="mainwindow_8h" kind="file"><name>mainwindow.h</name>
+  </compound>
+  <compound refid="dir_0fb571444ab541a18b94278dfc09d486" kind="dir"><name>qtproject1/qt-project1</name>
+  </compound>
+  <compound refid="dir_71e29b34933428f332734471f577acf1" kind="dir"><name>qtproject1</name>
+  </compound>
+</doxygenindex>

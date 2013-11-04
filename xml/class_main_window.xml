@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.5">
+  <compounddef id="class_main_window" kind="class" prot="public">
+    <compoundname>MainWindow</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">QMainWindow</basecompoundref>
+    <includes refid="mainwindow_8h" local="no">mainwindow.h</includes>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_main_window_1a35466a70ed47252a0191168126a352a5" prot="private" static="no" mutable="no">
+        <type>Ui::MainWindow *</type>
+        <definition>Ui::MainWindow* MainWindow::ui</definition>
+        <argsstring></argsstring>
+        <name>ui</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.h" line="48" column="1" bodyfile="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.h" bodystart="48" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_main_window_1a8b244be8b7b7db1b08de2a2acb9409db" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>MainWindow::MainWindow</definition>
+        <argsstring>(QWidget *parent=0)</argsstring>
+        <name>MainWindow</name>
+        <param>
+          <type>QWidget *</type>
+          <declname>parent</declname>
+          <defval>0</defval>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+<para>Constructor for <ref refid="class_main_window" kindref="compound">MainWindow</ref></para><para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>parent</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>a parent widget, can be null </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.h" line="35" column="1" bodyfile="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.cpp" bodystart="5" bodyend="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_main_window_1ae98d00a93bc118200eeef9f9bba1dba7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>MainWindow::~MainWindow</definition>
+        <argsstring>()</argsstring>
+        <name>~MainWindow</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.h" line="36" column="1" bodyfile="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.cpp" bodystart="12" bodyend="15"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-slot">
+      <memberdef kind="slot" id="class_main_window_1a4de79c63c7fa0b8d7c468ac71f20be81" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void MainWindow::on_pushButton_clicked</definition>
+        <argsstring>()</argsstring>
+        <name>on_pushButton_clicked</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.h" line="39" column="1" bodyfile="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.cpp" bodystart="18" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="slot" id="class_main_window_1ae0e46dc3da4ee07bf66e73e20300220c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void MainWindow::on_pushButton_2_clicked</definition>
+        <argsstring>()</argsstring>
+        <name>on_pushButton_2_clicked</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.h" line="41" column="1" bodyfile="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.cpp" bodystart="24" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="slot" id="class_main_window_1a12cf88402a93adef89645ba4e4cb7be1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void MainWindow::on_pushButton_3_clicked</definition>
+        <argsstring>()</argsstring>
+        <name>on_pushButton_3_clicked</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.h" line="43" column="1" bodyfile="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.cpp" bodystart="29" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="slot" id="class_main_window_1ae80a036ef40bb6ac0165471f71fef287" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void MainWindow::on_pushButton_4_clicked</definition>
+        <argsstring>()</argsstring>
+        <name>on_pushButton_4_clicked</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.h" line="45" column="1" bodyfile="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.cpp" bodystart="34" bodyend="37"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Main class of my application for project CS340. </para>    </briefdescription>
+    <detaileddescription>
+<para>Inherits for QMainWindow from Qt </para>    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>QMainWindow</label>
+      </node>
+      <node id="0">
+        <label>MainWindow</label>
+        <link refid="class_main_window"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>QMainWindow</label>
+      </node>
+      <node id="2">
+        <label>MainWindow</label>
+        <link refid="class_main_window"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.h" line="26" column="1" bodyfile="C:/Users/daniel/Desktop/qtproject1/qt-project1/mainwindow.h" bodystart="25" bodyend="49"/>
+    <listofallmembers>
+      <member refid="class_main_window_1a8b244be8b7b7db1b08de2a2acb9409db" prot="public" virt="non-virtual"><scope>MainWindow</scope><name>MainWindow</name></member>
+      <member refid="class_main_window_1ae0e46dc3da4ee07bf66e73e20300220c" prot="private" virt="non-virtual"><scope>MainWindow</scope><name>on_pushButton_2_clicked</name></member>
+      <member refid="class_main_window_1a12cf88402a93adef89645ba4e4cb7be1" prot="private" virt="non-virtual"><scope>MainWindow</scope><name>on_pushButton_3_clicked</name></member>
+      <member refid="class_main_window_1ae80a036ef40bb6ac0165471f71fef287" prot="private" virt="non-virtual"><scope>MainWindow</scope><name>on_pushButton_4_clicked</name></member>
+      <member refid="class_main_window_1a4de79c63c7fa0b8d7c468ac71f20be81" prot="private" virt="non-virtual"><scope>MainWindow</scope><name>on_pushButton_clicked</name></member>
+      <member refid="class_main_window_1a35466a70ed47252a0191168126a352a5" prot="private" virt="non-virtual"><scope>MainWindow</scope><name>ui</name></member>
+      <member refid="class_main_window_1ae98d00a93bc118200eeef9f9bba1dba7" prot="public" virt="non-virtual"><scope>MainWindow</scope><name>~MainWindow</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

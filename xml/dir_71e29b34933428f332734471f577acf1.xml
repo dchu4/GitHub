@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.5">
+  <compounddef id="dir_71e29b34933428f332734471f577acf1" kind="dir">
+    <compoundname>qtproject1</compoundname>
+    <innerdir refid="dir_0fb571444ab541a18b94278dfc09d486">qtproject1/qt-project1</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/daniel/Desktop/qtproject1/"/>
+  </compounddef>
+</doxygen>
